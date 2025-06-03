@@ -1,4 +1,4 @@
-<img src="banner.png" style="align: center;">
+<img src="cityBanner.png" style="align: center;">
 <hr>
 <h4>welcome to my page! </h4>
 <p>i am <strong>oixel</strong>, a full-stack developer constantly working on personal projects.</p>
