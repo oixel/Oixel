@@ -1,5 +1,7 @@
-<img src="banner.png">
+<img src="banner.png" style="align: center;">
+<hr>
+<h4>welcome to my page! </h4>
+<p>i am <strong>oixel</strong>, a full-stack developer constantly working on personal projects.</p>
+  
 
-<h2><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   Hello!</h2>
-
-I am **Oixel**. My passion for software spills into a lot of different projects, so I hope you find something you find interesting!
+<h6><i>i hope you find something you think is cool :)</i></h6>
