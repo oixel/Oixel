@@ -1,4 +1,4 @@
-<img src="banner.png" style="align: center;">
+<img src="banner.jpg" style="align: center;">
 <hr>
 <h4>welcome to my page! ☀️ </h4>
 <p>i am <strong>oixel</strong>, i like making things.</p>
